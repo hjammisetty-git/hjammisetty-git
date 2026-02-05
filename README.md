@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Himaja 👋
 
-<!--
-**hjammisetty-git/hjammisetty-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer focused on building backend and cloud-based applications.
 
-Here are some ideas to get you started:
+### 💻 Technical Focus
+- Java & Object-Oriented Programming
+- Backend Development & REST APIs
+- SQL and data handling
+- Clean, maintainable code practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Working On
+- Strengthening Java fundamentals
+- Practicing backend concepts
+- Building small projects to improve engineering depth
+
+### 📌 Goals
+- Grow as a strong backend engineer
+- Work on scalable, enterprise-grade systems
+- Continuously learn and improve
+
+📫 Connect with me on LinkedIn: (add later)
